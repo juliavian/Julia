@@ -1,3 +1,5 @@
-database
-  user:juliavian
-  passoword:123456
+database:
+  user: juliavian
+  passoword: 123456
+  server:
+  port: 001
